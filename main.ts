@@ -6,7 +6,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "I told my kids the remote control runs on applause — now they clap every time they change the channel.";
+  "Dad renamed our Wi-Fi '404 Not Found' — now the neighbours keep knocking to ask where the internet went.";
 
 // The gate allows 1–140 characters; fail loudly instead of shipping a line
 // the judge would never see.
