@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-the-one-liner-gro
 
 ## The joke
 
-> I told my kids the remote control runs on applause — now they clap every time they change the channel.
+> Dad renamed our Wi-Fi '404 Not Found' — now the neighbours keep knocking to ask where the internet went.
 
 (102 characters — one line, under the 140-character limit.)
 
