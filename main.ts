@@ -6,7 +6,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "I told my kids the cloud is just someone else's computer — now they think rain is a software update.";
+  "I told my kids the remote control runs on applause — now they clap every time they change the channel.";
 
 // The gate allows 1–140 characters; fail loudly instead of shipping a line
 // the judge would never see.
