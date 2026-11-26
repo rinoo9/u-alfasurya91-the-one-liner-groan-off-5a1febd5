@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-the-one-liner-gro
 
 ## The joke
 
-> I told my kids the cloud is just someone else's computer — now they think rain is a software update.
+> I told my kids the remote control runs on applause — now they clap every time they change the channel.
 
-(100 characters — one line, under the 140-character limit.)
+(102 characters — one line, under the 140-character limit.)
 
 ## How it works
 
